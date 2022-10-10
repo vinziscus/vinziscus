@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinziscus
-- 👀 I’m interested in science, complex systems, epistemology and chess 
-- 🌱 I’m currently learning how to code in Python and Statistics
+- 👀 I’m interested in medicine, natural sciences, maths & philosophy
+- 🌱 I’m currently doing the OSSU Computer Science Curriculum (Deadline: 12.08.2023)
 - 📫 You can reach me on twitter @chrislorck
 
 <!---
